@@ -7,6 +7,7 @@ public class Sqlserver {
 		
 
 	public static void main(String[] args) {
+		//System.out.println("Hi sql server");
 		 // Create a variable for the connection string.
 		try{  
 			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");  
